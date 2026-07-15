@@ -1,2 +1,2 @@
-# vaishnavi-demo
-this is my first repository
+Vaishnavi Ture
+JSPM'S College of Engineering Hadpasar
